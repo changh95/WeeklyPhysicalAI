@@ -91,6 +91,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2026.03.11| LoGer, SGG-Benchmark, OpenSandbox, Flash Attention 4, ART, TimesFM 2.5, SITS-DECO, Selfi |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/68)| |
 |2026.04.22| New Hesai LiDARs |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/71)| |
 |2026.05.06| Neural Gabor Splatting, Rapid-MLX, Qwen-Scope, MetaEarth3D, Map2World, Ouster Color LiDAR, HF Model visualizer, Jim Fan Physical AI Talk |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/72)| |
+|2026.06.17| ENPIRE, Genesis World, World Tracing, SpatialClaw, TurboVec, OpenCV5 |[meeting log](https://github.com/changh95/WeeklyPhysicalAI/issues/75)| |
 
 ## Our wonderful contributors 😃
 
