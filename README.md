@@ -93,6 +93,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2026.05.06| Neural Gabor Splatting, Rapid-MLX, Qwen-Scope, MetaEarth3D, Map2World, Ouster Color LiDAR, HF Model visualizer, Jim Fan Physical AI Talk |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/72)| |
 |2026.06.17| ENPIRE, Genesis World, World Tracing, SpatialClaw, TurboVec, OpenCV5 |[meeting log](https://github.com/changh95/WeeklyPhysicalAI/issues/75)| |
 |2026.07.08| GenRecon, Mighty VIO, UltraFusion, Visual-SLAM Roadmap |[meeting log](https://github.com/changh95/WeeklyPhysicalAI/issues/76)| |
+|2026.07.22| ARDY, GPC, VLK |[meeting log](https://github.com/changh95/WeeklyPhysicalAI/issues/78)| |
 
 ## Our wonderful contributors 😃
 
